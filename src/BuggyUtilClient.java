@@ -7,7 +7,6 @@ public class BuggyUtilClient {
                 ", last = " + "\"Flannery\"");
         System.out.println("Out: " +
         StringUtils.makePurdueUsername("Sean", "Flannery"));
-        System.out.println("Hello Sean Flannery!");
     }
 }
 
